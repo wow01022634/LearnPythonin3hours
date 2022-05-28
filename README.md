@@ -1,4 +1,4 @@
-# LearnPythonCodingin3hours
+# Learn Python Coding in 3hours
 
 This is excerceise files from Learn Python Coding in 3 hours.
 Please feel free to enjoy downlownding and manpulating the source code while learning.
