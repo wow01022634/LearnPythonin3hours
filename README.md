@@ -5,7 +5,7 @@ Please feel free to enjoy downlownding and manpulating the source code while lea
 
 MIT License
 
-Copyright (c) 2021 Learn Python Coding in 3 hours / Andrew Ahn
+Copyright (c) 2022 Learn Python Coding in 3 hours / Andrew Ahn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
